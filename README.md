@@ -44,7 +44,19 @@ Following are benifits that makes to deploy chatbot using "Azure bot services":
 ![image](https://user-images.githubusercontent.com/96172747/179710341-74f6fb4f-8793-4f5d-ac27-c548f6867f55.png)
 
 # LOGIN PAGE:
+![image](https://user-images.githubusercontent.com/96172747/179710565-1f963365-e1f5-4ed9-9946-e6033b2020ff.png)
+
 # SIGNUP PAGE:
+![image](https://user-images.githubusercontent.com/96172747/179710700-6d690eb0-089f-424d-a708-e191a9c81d68.png)
+
 # AFTER LOGIN PAGE:
-# CUSTOMER CARE(QNA MAKER USING AZURE SERVICE):
+![image](https://user-images.githubusercontent.com/96172747/179710809-243bedb8-e039-43ba-8cc1-2753f53c603c.png)
+
+# Click on ANY QUERY..??(QNA MAKER USING AZURE SERVICE):
+![image](https://user-images.githubusercontent.com/96172747/179711198-d9eda151-7486-463e-aa29-94c9a58f4bcc.png)
+
+![image](https://user-images.githubusercontent.com/96172747/179711422-69d94a1b-8963-4d50-8134-de67646d410e.png)
+
+![image](https://user-images.githubusercontent.com/96172747/179711500-1e578fbe-8224-4d24-821b-590986e14a45.png)
+
 

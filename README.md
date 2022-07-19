@@ -1,6 +1,5 @@
 # DREAM & ACHIEVE
-
-
+This project is about the website which is made for the purpose of finding the private tutor for any kind of exams...
 
 # Azure Services used in the project
 1)QnA maker 2)Static webapps 3)Azure Bot Service
